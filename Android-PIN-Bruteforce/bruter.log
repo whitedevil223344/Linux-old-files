@@ -1,0 +1,10 @@
+Android PIN brute-force :: version 0.1
+[[94mINFO[39m] Loading optimised PIN list for 4 digits (optimised-pin-length-4.txt)
+[[94mINFO[39m] PIN list contains 10000 PINs
+[[94mINFO[39m] Checking environment
+[[91mFAIL[39m] HID device (/dev/hidg0) not found
+Android PIN brute-force :: version 0.1
+[[94mINFO[39m] Loading optimised PIN list for 4 digits (optimised-pin-length-4.txt)
+[[94mINFO[39m] PIN list contains 10000 PINs
+[[94mINFO[39m] Checking environment
+[[91mFAIL[39m] HID device (/dev/hidg0) not found
